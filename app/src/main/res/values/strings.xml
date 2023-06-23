@@ -1,0 +1,33 @@
+<resources>
+    <string name="welcome_back">Welcome Back!</string>
+    <string name="login_to_continue">Login to continue</string>
+    <string name="email">Email</string>
+    <string name="password">password</string>
+    <string name="signin">SignIn</string>
+    <string name="sign_in">Sign_in</string>
+    <string name="signIn">Sign In</string>
+    <string name="create_new_account">Create New Account</string>
+    <string name="add_image">Add Image</string>
+    <string name="name">Name</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="select_user">Select User</string>
+    <string name="type_a_message">Type a message</string>
+    <string name="online">Online</string>
+    <string name="app_name">Chit Chat</string>
+    <string name="intrest">Intrest</string>
+    <string name="java">Java</string>
+    <string name="c_programming">C programming</string>
+    <string name="python">Python</string>
+    <string name="html">HTML</string>
+    <string name="soft_core_aptitude">Soft_Core_aptitude</string>
+    <string name="soft_core">soft core</string>
+    <string name="big_data">big data</string>
+    <string name="cloud_computing">Cloud computing</string>
+    <string name="html_css_javascript">html css javascript</string>
+    <string name="artificial_intelligence">Artificial intelligence</string>
+    <string name="machine_learning">Machine learning</string>
+    <string name="select_interest">select interest</string>
+    <string name="select_interest1">SELECT INTEREST</string>
+    <string name="data_science">Data science</string>
+</resources>
